@@ -10,7 +10,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ **ICLR-2023** ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)]
 - [ **Arxiv-2023** ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
-- [ **TMLR-2023** ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8&referrer=[the profile of Lu Han](%2Fprofile%3Fid%3D~Lu_Han2))]
+- [ **TMLR-2023** ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8)]
 - [ **NeurIPS-2022-Workshop** ] Semi-supervised Learning from Uncurated Echocardiogram Images with Fix-A-Step [[paper](https://www.michaelchughes.com/papers/HuangSidhomEtAl_MedNeurIPS_2022.pdf)]
 - [ **AAAI-2022** ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
 - [ **CVPR-2022** ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)]
