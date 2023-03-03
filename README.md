@@ -20,7 +20,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ **NeurIPS-2021** ] Universal semi-supervised learning [[paper](https://proceedings.neurips.cc/paper/2021/hash/e06f967fb0d355592be4e7674fa31d26-Abstract.html)]
 - [ **NeurIPS-2021** ] Openmatch: Open-set semi-supervised learning with open-set consistency regularization [[paper](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)]
 - [ **ICCV-2021** ] Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning [[paper](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.html)]
-- [ arxiv-2021 ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
+- [ **arxiv-2021** ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
 - [ **ECCV-2020** ] Multi-task curriculum framework for open-set semi-supervised learning [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)]
 - [ **ICML-2020** ] Safe deep semi-supervised learning for unseen-class unlabeled data [[paper](https://proceedings.mlr.press/v119/guo20i.html)]
 
@@ -31,7 +31,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
-- [ ACL-ARR-2023 ] OW-Class: Open-world Semi-supervised Text Classification [[paper](https://openreview.net/pdf?id=wQxftYkCdE)]
+- [ **ACL-ARR-2023** ] OW-Class: Open-world Semi-supervised Text Classification [[paper](https://openreview.net/pdf?id=wQxftYkCdE)]
 
 - [ **NeurIPS-2022** ] Robust Semi-Supervised Learning when Not All Classes have Labels [[paper](https://openreview.net/pdf?id=lDohSFOHr0)]
 
@@ -49,7 +49,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ **ICLR-2023** ] Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)]
 - [ **WACV-2023** ] Unifying Distribution Alignment as a Loss for Imbalanced Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lazarow_Unifying_Distribution_Alignment_as_a_Loss_for_Imbalanced_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
 - [ **WACV-2023** ] Dynamic Re-weighting for Long-tailed Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_Dynamic_Re-Weighting_for_Long-Tailed_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
-- [ 2023 ] Towards Semi-Supervised Learning with Non-Random Missing Labels [paper](https://openreview.net/pdf?id=aibmXGQJPs0)]
+- [ **2023** ] Towards Semi-Supervised Learning with Non-Random Missing Labels [paper](https://openreview.net/pdf?id=aibmXGQJPs0)]
 - [ **ICLR-2022** ] On Non-Random Missing Labels in Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2206.14923)]
 
 - [ **ICML-2022** ] Smoothed Adaptive Weighting for Imbalanced SSL: Improve Reliability Against Unknown Distribution Data [[paper](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)]
