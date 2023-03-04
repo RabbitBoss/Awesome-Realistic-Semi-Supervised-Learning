@@ -15,9 +15,9 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ **AAAI-2022** ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
 - [ **CVPR-2022** ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)]
 - [ **CVPR-2022** ] Class-Aware Contrastive Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2203.02261)] [[code](https://github.com/TencentYoutuResearch/Classification-SemiCLS)]
-- [ **TMM-2022** ] They are not completely useless: Towards recycling transferable unlabeled data for class-mismatched semi-supervised learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)]
+- [ **TMM-2022** ] They are Not Completely Useless: Towards Recycling Transferable Unlabeled Data for Class-Mismatched Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)]
 - [ **ICDM-2022** ] How Out-of-Distribution Data Hurts Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2010.03658)]
-- [ **NeurIPS-2021** ] Universal semi-supervised learning [[paper](https://proceedings.neurips.cc/paper/2021/hash/e06f967fb0d355592be4e7674fa31d26-Abstract.html)] [[code](https://github.com/josephioos/cafa)]
+- [ **NeurIPS-2021** ] Universal Semi-Supervised Learning [[paper](https://proceedings.neurips.cc/paper/2021/hash/e06f967fb0d355592be4e7674fa31d26-Abstract.html)] [[code](https://github.com/josephioos/cafa)]
 - [ **NeurIPS-2021** ] OpenMatch: Open-Set Semi-supervised Learning with Open-set Consistency Regularization [[paper](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)] [[code](https://github.com/VisionLearningGroup/OP_Match)]
 - [ **ICCV-2021** ] Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning [[paper](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.html)] [[code](https://github.com/huangjk97/T2T)]
 - [ **arxiv-2021** ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
@@ -67,7 +67,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ **Arxiv-2022** ] An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/abs/2211.11086)]
 
-- [ **Arxiv-2022** ] Don’t fear the unlabelled: safe semi-supervised learning via simple debiasing [[paper](https://arxiv.org/pdf/2203.07512)]
+- [ **Arxiv-2022** ] Don’t Fear the Unlabelled: Safe Semi-Supervised Learning via Simple Debiasing [[paper](https://arxiv.org/pdf/2203.07512)]
 
 - [ **Arxiv-2022** ] Robust and Efficient Imbalanced Positive-Unlabeled Learning with Self-supervision [[paper](https://arxiv.org/pdf/2209.02459)]
 
