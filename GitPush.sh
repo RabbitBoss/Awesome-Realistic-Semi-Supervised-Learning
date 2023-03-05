@@ -4,7 +4,7 @@ echo "happy GitAutoPush Starting..."
 time=$(date "+%Y-%m-%d %H:%M:%S")
 git add .
 
-read -t 30 -p "请输入提交注释:" msg
+read -t 30 -p "Please enter a commit comment:" msg
 
 if  [ ! "$msg" ] ;then
     echo "[commit message] "
