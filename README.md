@@ -46,15 +46,23 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ## Class-Imbalanced SSL
 
 - [ **ICLR-2023** ] InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://openreview.net/pdf?id=m6ahb1mpwwX)]
+
 - [ **ICLR-2023** ] Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)] [[code](https://github.com/renzhenwang/bias-adaptive-classifier)]
+
 - [ **WACV-2023** ] Unifying Distribution Alignment as a Loss for Imbalanced Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lazarow_Unifying_Distribution_Alignment_as_a_Loss_for_Imbalanced_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
+
 - [ **WACV-2023** ] Dynamic Re-weighting for Long-tailed Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_Dynamic_Re-Weighting_for_Long-Tailed_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
+
 - [ **2023** ] Towards Semi-Supervised Learning with Non-Random Missing Labels [paper](https://openreview.net/pdf?id=aibmXGQJPs0)]
+
 - [ **ICLR-2022** ] On Non-Random Missing Labels in Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2206.14923)]
 
 - [ **ICML-2022** ] Smoothed Adaptive Weighting for Imbalanced SSL: Improve Reliability Against Unknown Distribution Data [[paper](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)] [[code](https://github.com/ZJUJeffLai/SAW_SSL)]
+
 - [ **ICML-2022** ] Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding [[paper](https://proceedings.mlr.press/v162/guo22e/guo22e.pdf)] [[code](https://github.com/guolz-ml/Class-Imbalanced-SSL)]
+
 - [ **ECCV-2022** ] RDA: Reciprocal Distribution Alignment for Robust Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900527.pdf)] [[code](https://github.com/NJUyued/RDA4RobustSSL)]
+
 - [ **CVPR-2022-Workshop** ] SaR: Self-adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Lai_SaR_Self-Adaptive_Refinement_on_Pseudo_Labels_for_Multiclass-Imbalanced_Semi-Supervised_Learning_CVPRW_2022_paper.pdf)]
 
 - [ **CVPR-2022** ] DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced SSL [[paper](https://arxiv.org/abs/2106.05682)] [[code](https://github.com/ytaek-oh/daso)]
@@ -66,8 +74,6 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ **CVPR-2022** ] DC-SSL: Addressing Mismatched Class Distribution in Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DC-SSL_Addressing_Mismatched_Class_Distribution_in_Semi-Supervised_Learning_CVPR_2022_paper.pdf)]
 
 - [ **Arxiv-2022** ] An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/abs/2211.11086)]
-
-- [ **Arxiv-2022** ] Don’t Fear the Unlabelled: Safe Semi-Supervised Learning via Simple Debiasing [[paper](https://arxiv.org/pdf/2203.07512)]
 
 - [ **Arxiv-2022** ] Robust and Efficient Imbalanced Positive-Unlabeled Learning with Self-supervision [[paper](https://arxiv.org/pdf/2209.02459)]
 
@@ -83,5 +89,9 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ **NeurIPS-2020** ] Rethinking the Value of Labels for Improving Class-Imbalanced Learning [[paper](https://arxiv.org/pdf/2006.07529)]
 
+  ------
   
+  ## Novel Class Discovery
+  
+  - coming soon
 
