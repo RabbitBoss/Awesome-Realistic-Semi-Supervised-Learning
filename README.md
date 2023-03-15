@@ -20,7 +20,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ **NeurIPS-2021** ] Universal Semi-Supervised Learning [[paper](https://proceedings.neurips.cc/paper/2021/hash/e06f967fb0d355592be4e7674fa31d26-Abstract.html)] [[code](https://github.com/josephioos/cafa)]
 - [ **NeurIPS-2021** ] OpenMatch: Open-Set Semi-supervised Learning with Open-set Consistency Regularization [[paper](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)] [[code](https://github.com/VisionLearningGroup/OP_Match)]
 - [ **ICCV-2021** ] Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning [[paper](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.html)] [[code](https://github.com/huangjk97/T2T)]
-- [ **arxiv-2021** ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
+- [ **Arxiv-2021** ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
 - [ **ECCV-2020** ] Multi-task curriculum framework for open-set semi-supervised learning [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)] [[cdoe](https://github.com/YU1ut/Multi-Task-Curriculum-Framework-for-Open-Set-SSL)]
 - [ **ICML-2020** ] Safe deep semi-supervised learning for unseen-class unlabeled data [[paper](https://proceedings.mlr.press/v119/guo20i.html)] [[code](https://github.com/guolz-ml/DS3L)]
 
@@ -53,7 +53,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ **WACV-2023** ] Dynamic Re-weighting for Long-tailed Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_Dynamic_Re-Weighting_for_Long-Tailed_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
 
-- [ **2023** ] Towards Semi-Supervised Learning with Non-Random Missing Labels [paper](https://openreview.net/pdf?id=aibmXGQJPs0)]
+- [ **2023** ] Towards Semi-Supervised Learning with Non-Random Missing Labels [[paper](https://openreview.net/pdf?id=aibmXGQJPs0)]
 
 - [ **ICLR-2022** ] On Non-Random Missing Labels in Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2206.14923)]
 
