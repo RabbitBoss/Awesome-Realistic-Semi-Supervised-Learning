@@ -55,7 +55,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ **2023** ] Towards Semi-Supervised Learning with Non-Random Missing Labels [[paper](https://openreview.net/pdf?id=aibmXGQJPs0)]
 
-- [ **ICLR-2022** ] On Non-Random Missing Labels in Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2206.14923)]
+- [ **ICLR-2022** ] On Non-Random Missing Labels in Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2206.14923)] [[code](https://github.com/JoyHuYY1412/Class_Imbalanced_Semi_Supervised_Learning)]
 
 - [ **ICML-2022** ] Smoothed Adaptive Weighting for Imbalanced SSL: Improve Reliability Against Unknown Distribution Data [[paper](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)] [[code](https://github.com/ZJUJeffLai/SAW_SSL)]
 
