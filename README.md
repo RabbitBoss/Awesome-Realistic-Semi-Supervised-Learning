@@ -8,6 +8,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning
 - [ **ICLR-2023** ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
 - [ **Arxiv-2023** ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
 - [ **TMLR-2023** ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8)]
