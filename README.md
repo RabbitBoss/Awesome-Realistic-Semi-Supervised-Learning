@@ -11,6 +11,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning
 - [ **ICLR-2023** ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
 - [ **Arxiv-2023** ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
+- [ Arxiv-2023 ] Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ **TMLR-2023** ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8)]
 - [ **NeurIPS-2022-Workshop** ] Semi-supervised Learning from Uncurated Echocardiogram Images with Fix-A-Step [[paper](https://www.michaelchughes.com/papers/HuangSidhomEtAl_MedNeurIPS_2022.pdf)]
 - [ **AAAI-2022** ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
@@ -24,7 +25,6 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ **Arxiv-2021** ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
 - [ **ECCV-2020** ] Multi-task curriculum framework for open-set semi-supervised learning [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)] [[cdoe](https://github.com/YU1ut/Multi-Task-Curriculum-Framework-for-Open-Set-SSL)]
 - [ **ICML-2020** ] Safe deep semi-supervised learning for unseen-class unlabeled data [[paper](https://proceedings.mlr.press/v119/guo20i.html)] [[code](https://github.com/guolz-ml/DS3L)]
-
 - [ **AAAI-2020** ] Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5763/5619)]
 - **[ NeurIPS-2018 ]** Realistic Evaluation of Deep Semi-Supervised Learning Algorithms [[paper](https://proceedings.neurips.cc/paper/2018/file/c1fea270c48e8079d8ddf7d06d26ab52-Paper.pdf)] [[code](https://github.com/brain-research/realistic-ssl-evaluation)]
 
