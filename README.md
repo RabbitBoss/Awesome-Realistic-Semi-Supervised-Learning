@@ -8,7 +8,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
-- [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning
+- [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://aimia-pku.github.io/assets/files/7.-Out-of-Distributed-SemanticPruningforRobustSemi-SupervisedLearning.pdf)] [[code](https://github.com/rain305f/OSP)]
 - [ ICLR-2023 ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
 - [ Arxiv-2023 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
 - [ Arxiv-2023 ] Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
@@ -98,7 +98,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ CVPR-2023 ] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[paper](https://arxiv.org/pdf/2212.05590)] [[code](https://github.com/sheng-eatamath/PromptCAL)]
 
-- [ CVPR-2023 ] Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery
+- [ CVPR-2023 ] Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf)] [[code](https://github.com/muliyangm)]
 
 - [ CVPR-2023 ] Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery [[paper](https://arxiv.org/pdf/2210.03591)] [[code](https://github.com/FanZhichen/NCD-IIC)]
 
