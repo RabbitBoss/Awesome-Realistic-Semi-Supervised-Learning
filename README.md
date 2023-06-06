@@ -32,6 +32,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
+- [ 2023 ] WOT-Class: Weakly Supervised Open-world Text Classification [[paper](https://arxiv.org/pdf/2305.12401)]
+
 - [ ACL-ARR-2023 ] OW-Class: Open-world Semi-supervised Text Classification [[paper](https://openreview.net/pdf?id=wQxftYkCdE)]
 
 - [ NeurIPS-2022 ] Robust Semi-Supervised Learning when Not All Classes have Labels [[paper](https://openreview.net/pdf?id=lDohSFOHr0)] [[code](https://www.lamda.nju.edu.cn/code_NACH.ashx)]
