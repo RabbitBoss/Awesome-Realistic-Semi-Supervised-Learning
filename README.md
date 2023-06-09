@@ -8,6 +8,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ ICML-2023 ] Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions
+
 - [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://aimia-pku.github.io/assets/files/7.-Out-of-Distributed-SemanticPruningforRobustSemi-SupervisedLearning.pdf)] [[code](https://github.com/rain305f/OSP)]
 - [ ICLR-2023 ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
 - [ Arxiv-2023 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
