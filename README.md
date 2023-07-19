@@ -52,6 +52,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Class-Imbalanced SSL
 
+- [ ICCV-2023 ] Class Transition Tracking Based Pseudo-Rectifying Guidance for Semi-supervised Learning with Non-random Missing Labels
+
 - [ CVPR-2023 ] Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need [[paper](http://palm.seu.edu.cn/weit/paper/CVPR2023_ACR.pdf)] [[code](https://github.com/Gank0078/ACR)]
 
 - [ ICLR-2023 ] InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://openreview.net/pdf?id=m6ahb1mpwwX)]
