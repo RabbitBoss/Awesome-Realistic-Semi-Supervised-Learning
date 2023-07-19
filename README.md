@@ -8,6 +8,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ ICCV-2023 ] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization
+
 - [ ICML-2023 ] Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions [[paper](https://openreview.net/pdf?id=dZA7WtCULT)]
 
 - [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://aimia-pku.github.io/assets/files/7.-Out-of-Distributed-SemanticPruningforRobustSemi-SupervisedLearning.pdf)] [[code](https://github.com/rain305f/OSP)]
