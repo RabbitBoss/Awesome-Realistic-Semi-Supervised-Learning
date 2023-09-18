@@ -8,10 +8,10 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
-- [ ICCV-2023 ] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization
-
+- [ ICCV-2023 ] Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch [[paper](https://arxiv.org/pdf/2308.11874v1)] [[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)]
+- [ ICCV-2023 ] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization [[paper](https://arxiv.org/pdf/2308.13168)] [[code](https://github.com/nukezil/IOMatch)]
+- [ KDD-2023 ] Open-Set Semi-Supervised Text Classification with Latent Outlier Softening [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599456)] [[code](https://github.com/BDBC-KG-NLP/SIGKDD2023_Latent_Outlier_Softening)]
 - [ ICML-2023 ] Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions [[paper](https://openreview.net/pdf?id=dZA7WtCULT)]
-
 - [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://aimia-pku.github.io/assets/files/7.-Out-of-Distributed-SemanticPruningforRobustSemi-SupervisedLearning.pdf)] [[code](https://github.com/rain305f/OSP)]
 - [ ICLR-2023 ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
 - [ Arxiv-2023 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
@@ -52,7 +52,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Class-Imbalanced SSL
 
-- [ ICCV-2023 ] Class Transition Tracking Based Pseudo-Rectifying Guidance for Semi-supervised Learning with Non-random Missing Labels
+- [ ICCV-2023 ] Towards Semi-supervised Learning with Non-random Missing Labels [[paper](https://arxiv.org/pdf/2308.08872v1)] [[code](https://github.com/NJUyued/PRG4SSL-MNAR)]
 
 - [ CVPR-2023 ] Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need [[paper](http://palm.seu.edu.cn/weit/paper/CVPR2023_ACR.pdf)] [[code](https://github.com/Gank0078/ACR)]
 
