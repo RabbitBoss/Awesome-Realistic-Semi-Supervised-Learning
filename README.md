@@ -106,8 +106,6 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
   ## Novel Class Discovery
 
-- 
-
 - [ ICCV-2023 ] Class-relation Knowledge Distillation for Novel Class Discovery [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Class-relation_Knowledge_Distillation_for_Novel_Class_Discovery_ICCV_2023_paper.pdf)]
 
 - [ ICCV-2023 ] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Semi-supervised_Gaussian_Mixture_Models_for_Generalized_Category_Discovery_ICCV_2023_paper.pdf)] [[code](https://github.com/DTennant/GPC)]
