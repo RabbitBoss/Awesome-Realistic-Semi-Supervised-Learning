@@ -8,6 +8,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
+- [ ICCV-2023 ] SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf)] [[code](https://github.com/YUE-FAN/SSB)]
 - [ ICCV-2023 ] Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch [[paper](https://arxiv.org/pdf/2308.11874v1)] [[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)]
 - [ ICCV-2023 ] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization [[paper](https://arxiv.org/pdf/2308.13168)] [[code](https://github.com/nukezil/IOMatch)]
 - [ KDD-2023 ] Open-Set Semi-Supervised Text Classification with Latent Outlier Softening [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599456)] [[code](https://github.com/BDBC-KG-NLP/SIGKDD2023_Latent_Outlier_Softening)]
@@ -103,6 +105,12 @@ We will update the list of papers regularly to keep it up to date. :grin:
   ------
 
   ## Novel Class Discovery
+
+- 
+
+- [ ICCV-2023 ] Class-relation Knowledge Distillation for Novel Class Discovery [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Class-relation_Knowledge_Distillation_for_Novel_Class_Discovery_ICCV_2023_paper.pdf)]
+
+- [ ICCV-2023 ] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Semi-supervised_Gaussian_Mixture_Models_for_Generalized_Category_Discovery_ICCV_2023_paper.pdf)] [[code](https://github.com/DTennant/GPC)]
 
 - [ CVPR-2023 ] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[paper](https://arxiv.org/pdf/2212.05590)] [[code](https://github.com/sheng-eatamath/PromptCAL)]
 
