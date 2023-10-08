@@ -38,6 +38,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
+- [ NeurIPS-2023 ] Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning
+
 - [ 2023 ] WOT-Class: Weakly Supervised Open-world Text Classification [[paper](https://arxiv.org/pdf/2305.12401)]
 
 - [ ACL-ARR-2023 ] OW-Class: Open-world Semi-supervised Text Classification [[paper](https://openreview.net/pdf?id=wQxftYkCdE)]
