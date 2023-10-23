@@ -64,6 +64,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ ICLR-2023 ] Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)] [[code](https://github.com/renzhenwang/bias-adaptive-classifier)]
 
+- [ ACL-2023 ] Prototype-Guided Pseudo Labeling for Semi-Supervised Text Classification [[paper](https://aclanthology.org/2023.acl-long.904.pdf)]
+
 - [ WACV-2023 ] Unifying Distribution Alignment as a Loss for Imbalanced Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lazarow_Unifying_Distribution_Alignment_as_a_Loss_for_Imbalanced_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
 
 - [ WACV-2023 ] Dynamic Re-weighting for Long-tailed Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_Dynamic_Re-Weighting_for_Long-Tailed_Semi-Supervised_Learning_WACV_2023_paper.pdf)]
