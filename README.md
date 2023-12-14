@@ -23,7 +23,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ AAAI-2022 ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
 - [ CVPR-2022 ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)]
 - [ CVPR-2022 ] Class-Aware Contrastive Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2203.02261)] [[code](https://github.com/TencentYoutuResearch/Classification-SemiCLS)]
-- [ TMM-2022 ] They are Not Completely Useless: Towards Recycling Transferable Unlabeled Data for Class-Mismatched Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)]
+- [ TMM-2022 ] They are Not Completely Useless: Towards Recycling Transferable Unlabeled Data for Class-Mismatched Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)] [[code](https://github.com/zhuohuangai/TOOR)]
 - [ ICDM-2022 ] How Out-of-Distribution Data Hurts Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2010.03658)]
 - [ NeurIPS-2021 ] Universal Semi-Supervised Learning [[paper](https://proceedings.neurips.cc/paper/2021/hash/e06f967fb0d355592be4e7674fa31d26-Abstract.html)] [[code](https://github.com/josephioos/cafa)]
 - [ NeurIPS-2021 ] OpenMatch: Open-Set Semi-supervised Learning with Open-set Consistency Regularization [[paper](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)] [[code](https://github.com/VisionLearningGroup/OP_Match)]
@@ -38,7 +38,9 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
-- [ NeurIPS-2023 ] Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning
+- [ NeurIPS-2023 ] A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2311.03524)] [[code](https://github.com/deeplearning-wisc/sorl)]
+
+- [ NeurIPS-2023 ] Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=zrLxHYvIFL)] [[code](https://github.com/rain305f/TIDA)]
 
 - [ 2023 ] WOT-Class: Weakly Supervised Open-world Text Classification [[paper](https://arxiv.org/pdf/2305.12401)]
 
