@@ -8,6 +8,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
 - [ ICCV-2023 ] SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf)] [[code](https://github.com/YUE-FAN/SSB)]
 - [ ICCV-2023 ] Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch [[paper](https://arxiv.org/pdf/2308.11874v1)] [[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)]
@@ -38,11 +39,15 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
+- [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning
+
+- [ AAAI-2024 ] Semi-supervised Open-World Object Detection [[paper](https://arxiv.org/pdf/2402.16013)] [[code](https://github.com/sahalshajim/SS-OWFormer)]
+
 - [ NeurIPS-2023 ] A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2311.03524)] [[code](https://github.com/deeplearning-wisc/sorl)]
 
 - [ NeurIPS-2023 ] Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=zrLxHYvIFL)] [[code](https://github.com/rain305f/TIDA)]
 
-- [ 2023 ] WOT-Class: Weakly Supervised Open-world Text Classification [[paper](https://arxiv.org/pdf/2305.12401)]
+- [ CIKM-2023 ] WOT-Class: Weakly Supervised Open-world Text Classification [[paper](https://arxiv.org/pdf/2305.12401)]
 
 - [ ACL-ARR-2023 ] OW-Class: Open-world Semi-supervised Text Classification [[paper](https://openreview.net/pdf?id=wQxftYkCdE)]
 
@@ -57,6 +62,16 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Class-Imbalanced SSL
+
+- [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning
+
+- [ CVPR-2024 ] BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning
+
+- [ AAAI-2024 ] Three Heads Are Better Than One: Complementary Experts for Long-Tailed Semi-supervised Learning [[paper](https://arxiv.org/pdf/2312.15702)] [[code](https://github.com/machengcheng2016/CPE-LTSSL)]
+
+- [ AAAI-2024 ] BaCon: Boosting Imbalanced Semi-Supervised Learning via Balanced Feature-Level Contrastive Learning [[paper](https://www.cis.pku.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1887772040&wbfileid=14433382)]
+
+- [ AAAI-2024 ] Twice Class Bias Correction for Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2312.16604v1)] [[code](https://github.com/Lain810/TCBC)]
 
 - [ ICCV-2023 ] Towards Semi-supervised Learning with Non-random Missing Labels [[paper](https://arxiv.org/pdf/2308.08872v1)] [[code](https://github.com/NJUyued/PRG4SSL-MNAR)]
 
