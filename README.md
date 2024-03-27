@@ -18,11 +18,10 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://aimia-pku.github.io/assets/files/7.-Out-of-Distributed-SemanticPruningforRobustSemi-SupervisedLearning.pdf)] [[code](https://github.com/rain305f/OSP)]
 - [ ICLR-2023 ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
 - [ Arxiv-2023 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
-- [ Arxiv-2023 ] Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ TMLR-2023 ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8)]
 - [ NeurIPS-2022-Workshop ] Semi-supervised Learning from Uncurated Echocardiogram Images with Fix-A-Step [[paper](https://www.michaelchughes.com/papers/HuangSidhomEtAl_MedNeurIPS_2022.pdf)]
-- [ AAAI-2022 ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
-- [ CVPR-2022 ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)]
+- [ AAAI-2022 ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)] [[code](https://github.com/Zhanlo/SPL)]
+- [ CVPR-2022 ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)] [[code](https://github.com/Zhanlo/Safe-Student)]
 - [ CVPR-2022 ] Class-Aware Contrastive Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2203.02261)] [[code](https://github.com/TencentYoutuResearch/Classification-SemiCLS)]
 - [ TMM-2022 ] They are Not Completely Useless: Towards Recycling Transferable Unlabeled Data for Class-Mismatched Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)] [[code](https://github.com/zhuohuangai/TOOR)]
 - [ ICDM-2022 ] How Out-of-Distribution Data Hurts Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2010.03658)]
@@ -62,6 +61,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Class-Imbalanced SSL
+
+- [ ARXIV-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/ LeapLabTHU/SimPro)]
 
 - [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning
 
