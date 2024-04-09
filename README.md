@@ -64,9 +64,9 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ ARXIV-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/LeapLabTHU/SimPro)]
 
-- [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning
+- [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10391v1)] [[code](https://github.com/LeeHyuck/CDMAD)]
 
-- [ CVPR-2024 ] BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning
+- [ CVPR-2024 ] BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2404.01179)]
 
 - [ AAAI-2024 ] Three Heads Are Better Than One: Complementary Experts for Long-Tailed Semi-supervised Learning [[paper](https://arxiv.org/pdf/2312.15702)] [[code](https://github.com/machengcheng2016/CPE-LTSSL)]
 
