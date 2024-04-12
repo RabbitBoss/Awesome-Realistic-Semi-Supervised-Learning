@@ -8,6 +8,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
 - [ ICCV-2023 ] SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf)] [[code](https://github.com/YUE-FAN/SSB)]
