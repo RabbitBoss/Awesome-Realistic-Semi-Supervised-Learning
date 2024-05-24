@@ -39,7 +39,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
-- [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper]](https://arxiv.org/abs/2405.14516) [[code]](https://github.com/heyuanpengpku/ROLSSL)
+- [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper](https://arxiv.org/abs/2405.14516)] [[code](https://github.com/heyuanpengpku/ROLSSL)]
 
 - [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning
 
