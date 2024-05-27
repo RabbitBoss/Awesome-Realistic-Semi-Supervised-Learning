@@ -8,6 +8,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
+- [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
@@ -63,7 +65,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Class-Imbalanced SSL
 
-- [ ARXIV-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/LeapLabTHU/SimPro)]
+- [ ICML-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/LeapLabTHU/SimPro)]
 
 - [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10391v1)] [[code](https://github.com/LeeHyuck/CDMAD)]
 
