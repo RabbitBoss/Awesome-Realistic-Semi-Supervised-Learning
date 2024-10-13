@@ -8,6 +8,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)]
+- [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/ICML'24c.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
 - [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
@@ -60,6 +62,10 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Class-Imbalanced SSL
+
+- [ ECCV-2024 ] Flexible Distribution Alignment: Towards Long-tailed Semi-supervised Learning with Proper Calibration [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07132.pdf)] [[code](https://github.com/emasa/ADELLO-LTSSL)]
+
+- [ECCV-2024 ] Rebalancing Using Estimated Class Distribution for Imbalanced Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03287.pdf)] [[code](https://github.com/taemin-park/RECD)]
 
 - [ ICML-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/LeapLabTHU/SimPro)]
 
