@@ -8,6 +8,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ NeurIPS-2024 ] Data Augmentation with Diffusion for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=OP3sNTIE1O)] [[code]()]
 - [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)]
 - [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
@@ -44,7 +45,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
-- [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper](https://arxiv.org/abs/2405.14516)] [[code](https://github.com/heyuanpengpku/ROLSSL)]
+- [ NeurIPS-2024 ] OwMatch: Conditional Self-Labeling with Consistency for Open-world Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=rle9X7DQuH)] [[code](https://github.com/niusj03/OwMatch)]
+- [ ] [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper](https://arxiv.org/abs/2405.14516)] [[code](https://github.com/heyuanpengpku/ROLSSL)]
 - [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] [[code](https://github.com/Justherozen/TRAILER)]
 - [ IJCAI-2024 ] Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2309.11930.pdf)] [[code](https://github.com/yebo0216best/lps-main)]
 - [ AAAI-2024 ] Semi-supervised Open-World Object Detection [[paper](https://arxiv.org/pdf/2402.16013)] [[code](https://github.com/sahalshajim/SS-OWFormer)]
@@ -62,6 +64,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Class-Imbalanced SSL
+
+- [ NeurIPS-2024 ] Continuous Contrastive Learning for Long-Tailed Semi-Supervised Recognition [[paper](https://arxiv.org/pdf/2410.06109)] [[code](https://github.com/zhouzihao11/CCL)]
 
 - [ ECCV-2024 ] Flexible Distribution Alignment: Towards Long-tailed Semi-supervised Learning with Proper Calibration [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07132.pdf)] [[code](https://github.com/emasa/ADELLO-LTSSL)]
 
@@ -132,6 +136,12 @@ We will update the list of papers regularly to keep it up to date. :grin:
   ------
 
   ## Novel Class Discovery
+
+- [ NeurIPS-2024 ] Happy: A Debiased Learning Framework for Continual Generalized Category Discovery [[paper](https://openreview.net/pdf?id=hdUCZiMkFO)] [[code](https://github.com/mashijie1028/Happy-CGCD)]
+
+- [ NeurIPS-2024 ] Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery [[paper](https://openreview.net/pdf?id=seYXqfGT0q)] [[code](https://github.com/HaiyangZheng/PHE)]
+
+- [ NeurIPS-2024 ] Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery [[paper](https://openreview.net/pdf?id=C4NbtYnyQg)] [[code](https://openreview.net/attachment?id=C4NbtYnyQg&name=supplementary_material)]
 
 - [ ICCV-2023 ] Class-relation Knowledge Distillation for Novel Class Discovery [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Class-relation_Knowledge_Distillation_for_Novel_Class_Discovery_ICCV_2023_paper.pdf)]
 
