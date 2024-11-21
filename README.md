@@ -11,6 +11,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ NeurIPS-2024 ] Data Augmentation with Diffusion for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=OP3sNTIE1O)] [[code]()]
 - [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)]
 - [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
+- [ ACL-2024 ] Open-Set Semi-Supervised Text Classification via Adversarial Disagreement Maximization [[paper](https://aclanthology.org/2024.acl-long.118.pdf)] 
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/ICML'24c.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
 - [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
@@ -69,7 +70,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ ECCV-2024 ] Flexible Distribution Alignment: Towards Long-tailed Semi-supervised Learning with Proper Calibration [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07132.pdf)] [[code](https://github.com/emasa/ADELLO-LTSSL)]
 
-- [ECCV-2024 ] Rebalancing Using Estimated Class Distribution for Imbalanced Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03287.pdf)] [[code](https://github.com/taemin-park/RECD)]
+- [ ECCV-2024 ] Rebalancing Using Estimated Class Distribution for Imbalanced Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03287.pdf)] [[code](https://github.com/taemin-park/RECD)]
 
 - [ ICML-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/LeapLabTHU/SimPro)]
 
@@ -77,11 +78,17 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ CVPR-2024 ] BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2404.01179)]
 
+- [ TMM-2024 ] DCRP: Class-Aware Feature Diffusion Constraint and Reliable Pseudo-Labeling for Imbalanced Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/document/10417792)] [[code](https://github.com/guoxiaoyuatbjtu/DCRP)]
+
+- [ ML-2024 ] Transfer and share: semi-supervised learning from long-tailed data [[paper](https://link.springer.com/article/10.1007/s10994-022-06247-z)] [[code](https://github.com/Stomach-ache/TRAS)]
+
 - [ AAAI-2024 ] Three Heads Are Better Than One: Complementary Experts for Long-Tailed Semi-supervised Learning [[paper](https://arxiv.org/pdf/2312.15702)] [[code](https://github.com/machengcheng2016/CPE-LTSSL)]
 
 - [ AAAI-2024 ] BaCon: Boosting Imbalanced Semi-Supervised Learning via Balanced Feature-Level Contrastive Learning [[paper](https://www.cis.pku.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1887772040&wbfileid=14433382)]
 
 - [ AAAI-2024 ] Twice Class Bias Correction for Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2312.16604v1)] [[code](https://github.com/Lain810/TCBC)]
+
+- [ TMLR-2023 ] Novel class discovery for long-tailed recognition [[paper](https://openreview.net/forum?id=ey5b7kODvK)] [[code](https://github.com/kleinzcy/NCDLR)]
 
 - [ ICCV-2023 ] Towards Semi-supervised Learning with Non-random Missing Labels [[paper](https://arxiv.org/pdf/2308.08872v1)] [[code](https://github.com/NJUyued/PRG4SSL-MNAR)]
 
