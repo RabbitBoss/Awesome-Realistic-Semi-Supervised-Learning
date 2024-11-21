@@ -15,5 +15,5 @@ else
 fi
 
 
-git push
+git push origin HEAD:main
 echo " GitAutoPush Ending..."

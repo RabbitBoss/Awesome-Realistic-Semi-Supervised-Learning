@@ -86,8 +86,6 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ AAAI-2024 ] BaCon: Boosting Imbalanced Semi-Supervised Learning via Balanced Feature-Level Contrastive Learning [[paper](https://www.cis.pku.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1887772040&wbfileid=14433382)]
   
-- [TMLR 2023] Novel class discovery for long-tailed recognition [[paper](https://openreview.net/forum?id=ey5b7kODvK)] [[code](https://github.com/kleinzcy/NCDLR)]
-
 - [ AAAI-2024 ] Twice Class Bias Correction for Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2312.16604v1)] [[code](https://github.com/Lain810/TCBC)]
 
 - [ TMLR-2023 ] Novel class discovery for long-tailed recognition [[paper](https://openreview.net/forum?id=ey5b7kODvK)] [[code](https://github.com/kleinzcy/NCDLR)]
