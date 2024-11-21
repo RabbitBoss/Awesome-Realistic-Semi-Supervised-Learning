@@ -80,7 +80,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ TMM-2024 ] DCRP: Class-Aware Feature Diffusion Constraint and Reliable Pseudo-Labeling for Imbalanced Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/document/10417792)] [[code](https://github.com/guoxiaoyuatbjtu/DCRP)]
 
-- [ ML-2024 ] Transfer and share: semi-supervised learning from long-tailed data [[paper](https://link.springer.com/article/10.1007/s10994-022-06247-z)] [[code](https://github.com/Stomach-ache/TRAS)]
+- [ MachineLearning-2024 ] Transfer and share: semi-supervised learning from long-tailed data [[paper](https://link.springer.com/article/10.1007/s10994-022-06247-z)] [[code](https://github.com/Stomach-ache/TRAS)]
 
 - [ AAAI-2024 ] Three Heads Are Better Than One: Complementary Experts for Long-Tailed Semi-supervised Learning [[paper](https://arxiv.org/pdf/2312.15702)] [[code](https://github.com/machengcheng2016/CPE-LTSSL)]
 
