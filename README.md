@@ -8,7 +8,6 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
-- [ ICML-2026 ] Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2605.07557)] [[code](https://github.com/Yaxin-ML/SAGE)]
 - [ CVPR-2026 ] PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning [[paper](https://jiangqy.github.io/publications/CVPR2026_PAF.pdf)] [[code](https://github.com/njustkmg/CVPR2026-PAF)]
 - [ AAAI-2026 ] Let the void be void: Robust open-set semi-supervised learning via selective non-alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39194)]
 - [ IJCV-2025 ] Knowledge Distillation Meets Open-Set Semi-supervised Learning [[paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02192-7.pdf)] [[code]([jingyang2017/SRD_ossl](https://github.com/jingyang2017/SRD_ossl))]
@@ -73,6 +72,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Class-Imbalanced SSL
+
+- [ ICML-2026 ] Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2605.07557)] [[code](https://github.com/Yaxin-ML/SAGE)]
 
 - [ ICLR-2026 ] SCAD: Super-Class-Aware Debiasing for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=aSCtAZEcRa)] [[code](https://github.com/aitrics-tom/SCAD)]
 
