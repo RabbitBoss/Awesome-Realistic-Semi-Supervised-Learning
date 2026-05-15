@@ -8,13 +8,21 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
-- [ NeurIPS-2024 ] Data Augmentation with Diffusion for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=OP3sNTIE1O)] [[code]()]
+- [ ICML-2026 ] Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2605.07557)] [[code](https://github.com/Yaxin-ML/SAGE)]
+- [ CVPR-2026 ] PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning [[paper](https://jiangqy.github.io/publications/CVPR2026_PAF.pdf)] [[code](https://github.com/njustkmg/CVPR2026-PAF)]
+- [ AAAI-2026 ] Let the void be void: Robust open-set semi-supervised learning via selective non-alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39194)]
+- [ IJCV-2025 ] Knowledge Distillation Meets Open-Set Semi-supervised Learning [[paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02192-7.pdf)] [[code](t https://github.com/jingyang2017/SRD_ossl)]
+- [ TPAMI-2025 ] Towards a Theoretical Understanding of Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ieeexplore.ieee.org/abstract/document/10904322)] [[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)]
+- [ ICCV-2025 ] CaliMatch: Adaptive Calibration for Improving Safe Semi-supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Bae_CaliMatch_Adaptive_Calibration_for_Improving_Safe_Semi-supervised_Learning_ICCV_2025_paper.html)]
+- [ KDD-2024 ] Asymmetric Beta Loss for Evidence-Based Safe Semi-Supervised Multi-Label Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671756)] [[code](https://github.com/hz681/AsymmetricBetaLoss)]
+- [ NeurIPS-2024 ] Data Augmentation with Diffusion for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=OP3sNTIE1O)]
 - [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)]
 - [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
 - [ ACL-2024 ] Open-Set Semi-Supervised Text Classification via Adversarial Disagreement Maximization [[paper](https://aclanthology.org/2024.acl-long.118.pdf)] 
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/ICML'24c.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
 - [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
+- [ WACV-2024 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wallin_Improving_Open-Set_Semi-Supervised_Learning_With_Self-Supervision_WACV_2024_paper.pdf)] [[code](https://github.com/walline/ssl-tf2-sefoss)]
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
@@ -65,6 +73,18 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Class-Imbalanced SSL
+
+- [ ICLR-2026 ] SCAD: Super-Class-Aware Debiasing for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=aSCtAZEcRa)] [[code](https://github.com/aitrics-tom/SCAD)]
+
+- [ ICLR-2026 ] CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=pI9n8wAR80)]
+
+- [ ICML-2025 ] A Square Peg in a Square Hole: Meta-Expert for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=h0ZeiDRN8A)] [[code](https://github.com/yaxinhou/Meta-Expert)]
+
+- [ ICCV-2025 ] Learnable Logit Adjustment for Imbalanced Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Learnable_Logit_Adjustment_for_Imbalanced_Semi-Supervised_Learning_under_Class_Distribution_ICCV_2025_paper.pdf)]
+
+- [ NeurIPS-2025 ] Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/abcd225747ec4a176a5ff59e56e0d2eb-Paper-Conference.pdf)] [[code](https://github.com/yaxinhou/CPG)]
+
+- [ AAAI-2025 ] LCGC Learning from Consistency Gradient Conflicting for Class-Imbalanced Semi-Supervised Debiasing [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/35474)] [[code](https://github.com/Cyue0316/LCGC)]
 
 - [ NeurIPS-2024 ] Continuous Contrastive Learning for Long-Tailed Semi-Supervised Recognition [[paper](https://arxiv.org/pdf/2410.06109)] [[code](https://github.com/zhouzihao11/CCL)]
 
