@@ -73,6 +73,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Class-Imbalanced SSL
 
+- [ AAAI-2026 ] Sampling Control for Imbalanced Calibration in Semi-Supervised Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39791/43752)] [[code](https://github.com/Sheldon04/SC-SSL)]
+
 - [ ICML-2026 ] Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2605.07557)] [[code](https://github.com/Yaxin-ML/SAGE)]
 
 - [ ICLR-2026 ] SCAD: Super-Class-Aware Debiasing for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=aSCtAZEcRa)] [[code](https://github.com/aitrics-tom/SCAD)]
