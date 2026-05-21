@@ -77,6 +77,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 - [ ICML-2026 ] Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2605.07557)] [[code](https://github.com/Yaxin-ML/SAGE)]
 
+- [ ICLR-2026 ] Learning Dynamics of Logits Debiasing for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=e15SYMcsTs)] [[code](https://jiajun0425.github.io/DyTrim/)]
+
 - [ ICLR-2026 ] SCAD: Super-Class-Aware Debiasing for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=aSCtAZEcRa)] [[code](https://github.com/aitrics-tom/SCAD)]
 
 - [ ICLR-2026 ] CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=pI9n8wAR80)]
