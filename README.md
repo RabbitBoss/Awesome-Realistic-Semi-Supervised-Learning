@@ -8,6 +8,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
+- [ CVPR-2026 ] Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_Bypassing_the_Transport_Plan_Dynamic_Reweighting_for_Out-of-Distribution_Detection_with_CVPR_2026_paper.pdf)]
 - [ CVPR-2026 ] PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning [[paper](https://jiangqy.github.io/publications/CVPR2026_PAF.pdf)] [[code](https://github.com/njustkmg/CVPR2026-PAF)]
 - [ AAAI-2026 ] Let the void be void: Robust open-set semi-supervised learning via selective non-alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39194)]
 - [ IJCV-2025 ] Knowledge Distillation Meets Open-Set Semi-supervised Learning [[paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02192-7.pdf)] [[code]([jingyang2017/SRD_ossl](https://github.com/jingyang2017/SRD_ossl))]
@@ -53,6 +54,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
+- [ CVPR-2026 ] SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.pdf)] [[code](https://github.com/ganchi-huanggua/OSSL-Classification)]
+- [ CVPR-2025 ] Learning Textual Prompts for Open-World Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf)] [[code](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Fan_Learning_Textual_Prompts_CVPR_2025_supplemental.zip)]
 - [ NeurIPS-2024 ] OwMatch: Conditional Self-Labeling with Consistency for Open-world Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=rle9X7DQuH)] [[code](https://github.com/niusj03/OwMatch)]
 - [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper](https://arxiv.org/abs/2405.14516)] [[code](https://github.com/heyuanpengpku/ROLSSL)]
 - [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] [[code](https://github.com/Justherozen/TRAILER)]
